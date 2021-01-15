@@ -7,7 +7,7 @@ Some concepts used here were learnt from Daniel Shiffman's Nature of Code (Link 
 Only the source code lives here
 
 
-
+A LOT of help from this link : https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
 
 
